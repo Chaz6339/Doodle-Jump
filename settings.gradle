@@ -1,0 +1,3 @@
+rootProject.name = 'csci205_final_project'
+include 'docs'
+
